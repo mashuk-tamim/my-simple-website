@@ -1,6 +1,10 @@
 div{
-    background-color: tomato;
+    background-color:rgba(172, 255, 47, 0.249);
     padding: 20px;
-    border: 3px solid blueviolet;
-    
+    /* border: 5px solid blueviolet; */
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px mediumpurple;
+    text-align: justify;
+
 }
